@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1139.62 316">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #9e5ba1;
+        font-family: Muli-Black, Muli;
+        font-weight: 800;
+      }
+
+      .cls-1, .cls-7 {
+        letter-spacing: .2em;
+      }
+
+      .cls-2 {
+        letter-spacing: .11em;
+      }
+
+      .cls-3 {
+        letter-spacing: .2em;
+      }
+
+      .cls-4 {
+        letter-spacing: .22em;
+      }
+
+      .cls-5 {
+        letter-spacing: .17em;
+      }
+
+      .cls-8 {
+        font-size: 66.33px;
+      }
+
+      .cls-7 {
+        font-family: Muli-SemiBold, Muli;
+        font-weight: 600;
+      }
+
+      .cls-6 {
+        letter-spacing: .2em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-8" transform="translate(104.17 56.78)"><tspan class="cls-7" x="0" y="0">A </tspan><tspan class="cls-6" x="92.31" y="0">DIGI</tspan><tspan class="cls-2" x="288.9" y="0">T</tspan><tspan class="cls-6" x="338.32" y="0">AL SO</tspan><tspan class="cls-5" x="611.26" y="0">L</tspan><tspan class="cls-1" x="660.87" y="0">UTION</tspan><tspan class="cls-7"><tspan x="180.32" y="79.59">TO ALL YOUR</tspan></tspan><tspan class="cls-1" x="-104.17" y="159.19">PRINT MARK</tspan><tspan class="cls-4" x="456.3" y="159.19">E</tspan><tspan class="cls-3" x="510.76" y="159.19">TING</tspan><tspan class="cls-7" x="727.72" y="159.19" xml:space="preserve"> NEEDS</tspan></text>
+  </g>
+</svg>
